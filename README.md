@@ -1,5 +1,7 @@
 # 01 HTML, CSS, and Git: Code Refactor
 
+https://vertexspec.github.io/WK1-HW/
+
 ## Challenge
 This is my submission for the Week 1 Homework of the Bootcamp where we had to improve the accessibility standards of the website by including alt tags on images and replacing the default HTML tags with semantic HTML tags that clearly describe the structure and what code relates to which tags. The User Story and Acceptance Criteria was what needed to be followed as per below.
 
